@@ -1,0 +1,23 @@
+======================================================
+Filename: script7.txt
+Running Test: [LClassB;@45ee12a7
+Recursive: false
+CLASS
+Class: [LClassB;
+ Type Name: ClassB[]
+ Component Type: class ClassB
+ Length: 12
+ Entries->
+   Value: null
+   Value: null
+   Value: null
+   Value (ref): ClassB@330bedb4
+   Value: null
+   Value: null
+   Value: null
+   Value: null
+   Value: null
+   Value: null
+   Value: null
+   Value: null
+======================================================
